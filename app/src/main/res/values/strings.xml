@@ -1,3 +1,10 @@
 <resources>
     <string name="app_launcher_name">Calculatrice</string>
+    <string name="settings">Settings</string>
+    <string name="about">About</string>
+
+    <!-- Calculator field -->
+    <string name="formula_divide_by_zero_error">Error: division by zero</string>
+
+    <string name="unknown_error_occurred">An unknown error occurred</string>
 </resources>

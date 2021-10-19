@@ -1,7 +1,6 @@
 package com.example.calculatrice.helpers
 
 import android.content.Context
-import com.simplemobiletools.commons.helpers.BaseConfig
 
 class Config(context: Context) : BaseConfig(context) {
     companion object {
